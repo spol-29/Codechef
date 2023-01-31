@@ -1,4 +1,4 @@
-#nclude <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 const int pi = 3.14159265358979323846;
